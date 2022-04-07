@@ -1,6 +1,5 @@
 # **RepositorioProjeto**
 
-![image](https://user-images.githubusercontent.com/66735942/162212901-d47d9e3a-1e24-48f6-a7d5-270052421100.png)
 ![image](https://user-images.githubusercontent.com/66735942/162213131-165473b1-ca2b-42ea-9cf7-36d34c8e2dba.png)
 
 
